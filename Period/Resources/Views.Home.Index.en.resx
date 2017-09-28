@@ -1,0 +1,82 @@
+﻿<!--<?xml version="1.0" encoding="utf-8"?>-->
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="History" xml:space="preserve">
+    <value>History</value>
+</data>
+    <data name="Period" xml:space="preserve">
+    <value>Period</value>
+    </data>
+   
+    
+    <data name="service" xml:space="preserve">
+    <value>Service</value>
+    </data>
+    
+    <data name="portfolio" xml:space="preserve">
+    <value>Products</value>
+    </data>
+    
+    <data name="contact" xml:space="preserve">
+    <value>Contacts</value>
+    </data>
+    
+    <data name="ooo" xml:space="preserve">
+    <value>LLC "Period"</value>
+    </data>
+    
+    <data name="purpose" xml:space="preserve">
+    <value>Development and manufacture of radioelectronic devices</value>
+    </data>
+    <data name="first" xml:space="preserve">
+    <value>first</value>
+    </data>
+
+    <data name="second" xml:space="preserve">
+    <value>second</value>
+    </data>
+
+    <data name="third" xml:space="preserve">
+    <value>third</value>
+    </data>
+    <data name="Our history" xml:space="preserve">
+    <value>Our history</value>
+    </data>
+    <data name="Get more" xml:space="preserve">
+    <value>Get more</value>
+    </data>
+    <data name="Description" xml:space="preserve">
+    <value>Limited Liability Company "PERIOD" was founded in 1993. The main activity of the company is the development and production of radio electronic devices.
+The activity of PERIOD LLC is carried out on its own production facilities, using modern radio electronic equipment.
+During the activity, the company has successfully implemented many projects, both in the Republic of Belarus and abroad. Including: ............................................. ...
+Customers of our products are such companies as: ............................</value>
+    </data>
+    <data name="btn" xml:space="preserve">
+    <value>btn</value>
+    </data>
+    <data name="address" xml:space="preserve">
+    <value>LLC "PERIOD", Logoysky tract, 20, building 411, 220090, Minsk, Republic of Belarus.
+            Ready to place an order? Write to us on the mail or call, we will contact you
+    </value>
+    </data>
+	<data name="Where to find us:" xml:space="preserve">
+       <value>Where to find us:
+    </value>
+    </data>
+
+	 <data name="Language:" xml:space="preserve">
+       <value>Language: </value>
+    </data>
+
+</root>

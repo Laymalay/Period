@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+
+    <data name="Period" xml:space="preserve">
+    <value>Период</value>
+    </data>
+	
+	<data name="History" xml:space="preserve">
+    <value>История</value>
+	</data>
+	
+	<data name="service" xml:space="preserve">
+    <value>Сервис</value>
+	</data>
+	
+	<data name="portfolio" xml:space="preserve">
+    <value>Продукты</value>
+    </data>
+	
+    <data name="contact" xml:space="preserve">
+    <value>Контакты</value>
+	</data>
+	
+    <data name="ooo" xml:space="preserve">
+    <value>ООО "Период"</value>
+    </data>
+	
+    <data name="purpose" xml:space="preserve">
+    <value>Разработка и производство радиоэлектронных устройств</value>
+	</data>
+	<data name="first" xml:space="preserve">
+    <value>Первое</value>
+    </data>
+
+	<data name="second" xml:space="preserve">
+    <value>Второе</value>
+    </data>
+
+	<data name="third" xml:space="preserve">
+    <value>Третье</value>
+    </data>
+	<data name="Our history" xml:space="preserve">
+    <value>Наша история</value>
+    </data>
+	<data name="Get more" xml:space="preserve">
+    <value>Третье</value>
+    </data>
+	<data name="Description" xml:space="preserve">
+    <value>Общество с ограниченной ответственностью «ПЕРИОД» основано в 1993г.  Основным видом деятельности компании является разработка и производство радиоэлектронных устройств.
+Деятельность ООО «ПЕРИОД» осуществляется на собственных производственных площадях, с использованием современного радиоэлектронного оборудования.
+В процессе деятельности, компанией было успешно реализовано множество проектов, как в Республике Беларусь, так и за рубежом. В т.ч: …………………………………………
+Заказчиками нашей продукции являются такие компании как: ……………………….</value>
+    </data>
+	<data name="btn" xml:space="preserve">
+    <value>Третье</value>
+    </data>
+	<data name="address" xml:space="preserve">
+    <value>ООО “ПЕРИОД”, Логойский тракт, д. 20, к. 411, 220090, г. Минск, Республика Беларусь.		
+            Готовы сделать заказ? Пишите нам на почту или звоните, мы обязательно свяжемся с вами
+	</value>
+    </data>
+	<data name="Where to find us:" xml:space="preserve">
+       <value>Где нас найти:
+    </value>
+    </data>
+
+	   <data name="Language:" xml:space="preserve">
+       <value>Язык: </value>
+    </data>
+
+
+
+	
+
+	
+
+
+	
+</root>
