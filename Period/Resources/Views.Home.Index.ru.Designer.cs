@@ -83,6 +83,12 @@ namespace Period.Resources {
             }
         }
         
+        internal static string name {
+            get {
+                return ResourceManager.GetString("name", resourceCulture);
+            }
+        }
+        
         internal static string purpose {
             get {
                 return ResourceManager.GetString("purpose", resourceCulture);

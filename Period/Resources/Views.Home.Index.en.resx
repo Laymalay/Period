@@ -31,10 +31,14 @@
     <data name="contact" xml:space="preserve">
     <value>Contacts</value>
     </data>
-    
-    <data name="ooo" xml:space="preserve">
-    <value>LLC "Period"</value>
+
+	<data name="ooo" xml:space="preserve">
+    <value>L T D</value>
     </data>
+    <data name="name" xml:space="preserve">
+    <value>"P   e   r   i   o   d"</value>
+    </data>
+	
     
     <data name="purpose" xml:space="preserve">
     <value>Development and manufacture of radioelectronic devices</value>
@@ -58,7 +62,7 @@
     </data>
     <data name="Description" xml:space="preserve">
     <value>Limited Liability Company "PERIOD" was founded in 1993. The main activity of the company is the development and production of radio electronic devices.
-The activity of PERIOD LLC is carried out on its own production facilities, using modern radio electronic equipment.
+The activity of PERIOD LTD is carried out on its own production facilities, using modern radio electronic equipment.
 During the activity, the company has successfully implemented many projects, both in the Republic of Belarus and abroad. Including: ............................................. ...
 Customers of our products are such companies as: ............................</value>
     </data>
@@ -66,7 +70,7 @@ Customers of our products are such companies as: ............................</v
     <value>btn</value>
     </data>
     <data name="address" xml:space="preserve">
-    <value>LLC "PERIOD", Logoysky tract, 20, building 411, 220090, Minsk, Republic of Belarus.
+    <value>LTD "PERIOD", Logoysky tract, 20, building 411, 220090, Minsk, Republic of Belarus.
             Ready to place an order? Write to us on the mail or call, we will contact you
     </value>
     </data>

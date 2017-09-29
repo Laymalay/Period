@@ -32,9 +32,12 @@
     <data name="contact" xml:space="preserve">
     <value>Контакты</value>
 	</data>
-	
-    <data name="ooo" xml:space="preserve">
-    <value>ООО "Период"</value>
+
+	<data name="ooo" xml:space="preserve">
+    <value>O O O</value>
+    </data>
+    <data name="name" xml:space="preserve">
+    <value>"П   e   р   и   о   д"</value>
     </data>
 	
     <data name="purpose" xml:space="preserve">

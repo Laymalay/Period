@@ -105,7 +105,7 @@ body {
 }
 
     #mainNav .navbar-brand {
-        font-weight: 800;
+        font-weight: 200;
         text-transform: uppercase;
         color: #40BEF0;
         /*font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;*/
@@ -118,7 +118,7 @@ body {
 
     #mainNav .navbar-toggle {
         font-size: 12px;
-        font-weight: 700;
+        font-weight: 200;
         text-transform: uppercase;
         color: #222222;
     }
@@ -126,7 +126,7 @@ body {
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus,
     #mainNav .navbar-nav > li.nav-item > a.nav-link {
         font-size: 14px;
-        font-weight: 700;
+        font-weight: 200;
         text-transform: uppercase;
         color: #222222;
     }
@@ -219,7 +219,7 @@ header.masthead {
 
         header.masthead .header-content .header-content-inner h1 {
             font-size: 30px;
-            font-weight: 700;
+            font-weight: 200;
             margin-top: 0;
             margin-bottom: 0;
             text-transform: uppercase;
@@ -231,7 +231,7 @@ header.masthead {
 
         header.masthead .header-content .header-content-inner p {
             font-size: 16px;
-            font-weight: 300;
+            font-weight: 200;
             margin-bottom: 50px;
             color: rgba(255, 255, 255, 0.7);
         }
@@ -317,12 +317,14 @@ header.masthead {
             .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
             .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
                 padding: 0 15px;
-                font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+                /*font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;*/
+           
+                font-family: 'Raleway', sans-serif;
             }
 
             .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
                 font-size: 14px;
-                font-weight: 600;
+                font-weight: 100;
                 text-transform: uppercase;
             }
 
@@ -470,10 +472,10 @@ header.masthead {
     }
 
 .btn {
-    font-weight: 700;
+    font-weight: 200;
     text-transform: uppercase;
     border: none;
-    border-radius: 300px;
+    border-radius: 200px;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
