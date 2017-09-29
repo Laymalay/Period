@@ -24,6 +24,14 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Views.Home.Index.ru.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\SharedResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>SharedResource.en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\SharedResource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>SharedResource.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Resources\Views.Designer.cs">
@@ -31,6 +39,12 @@
     </Compile>
     <Compile Update="Resources\Views.Home.Index.ru.Designer.cs">
       <DependentUpon>Views.Home.Index.ru.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\SharedResource.Designer.cs">
+      <DependentUpon>SharedResource.en.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\SharedResource.ru.Designer.cs">
+      <DependentUpon>SharedResource.ru.resx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
