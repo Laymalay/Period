@@ -32,6 +32,12 @@
     <data name="contact" xml:space="preserve">
     <value>Contacts</value>
     </data>
+	<data name="login" xml:space="preserve">
+    <value>login</value>
+    </data>
+     <data name="news" xml:space="preserve">
+    <value>news</value>
+    </data>
 	
     <data name="Language:" xml:space="preserve">
     <value>Language: </value>

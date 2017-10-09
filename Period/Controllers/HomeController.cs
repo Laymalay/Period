@@ -9,6 +9,7 @@ using System.Globalization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Localization;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Period.Controllers
 {
@@ -19,11 +20,11 @@ namespace Period.Controllers
             return View();
         }
 
-        public IActionResult About()
-        {
-            ViewData["Message"] = "Your application description page.";
 
-            return View();
+        [Authorize]
+        public IActionResult LogIn()
+        {
+            return Content(User.Identity.Name);
         }
 
 		[HttpPost]

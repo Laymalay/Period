@@ -32,6 +32,12 @@
     <data name="contact" xml:space="preserve">
     <value>Контакты</value>
     </data>
+	 <data name="login" xml:space="preserve">
+    <value>Войти</value>
+    </data>
+	 <data name="news" xml:space="preserve">
+    <value>Новости</value>
+    </data>
 
 	<data name="Language:" xml:space="preserve">
     <value>Язык: </value>
